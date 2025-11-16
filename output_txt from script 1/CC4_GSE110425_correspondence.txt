@@ -1,0 +1,30 @@
+GO:0008150 genes: CAV1,IFITM2,ISG15,POTEF,RPL3,RPLP0,RPLP2,ZMAT3 
+GO:0008152 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0009058 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0009059 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0009987 genes: CAV1,IFITM2,ISG15,POTEF,RPL3,RPLP0,RPLP2,ZMAT3 
+GO:0010467 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0019538 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0043170 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0044238 genes: CAV1,ISG15,RPL3,RPLP0,RPLP2 
+GO:0050896 genes: CAV1,IFITM2,ISG15,RPL3,ZMAT3 
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
+NA genes:  
