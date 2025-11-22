@@ -1,0 +1,28 @@
+Disease,Link,Gene.Symbol
+Obesity,1,B2M
+Obesity,1,CXCL8
+Obesity,1,HLA-DQA1
+Obesity,1,HLA-DRB4
+Obesity,1,MMP1
+Obesity,1,S100P
+Obesity,1,LUM
+Obesity,1,RPS4Y1
+Obesity,1,ANGPTL4
+Obesity,1,DEFAIB
+Obesity,1,RAPIA
+Obesity,1,IFI44L
+Breast cancer,1,B2M
+Breast cancer,1,CXCL8
+Breast cancer,1,HLA-DQA1
+Breast cancer,1,HLA-DRB4
+Breast cancer,1,MMP1
+Breast cancer,1,S100P
+Breast cancer,1,LUM
+Colon Cancer,1,LUM
+Colon Cancer,1,IFI44L
+Colon Cancer,1,RAPIA
+Colon Cancer,1,DEFAIB
+Colon Cancer,1,RPS4Y1
+Liver Cancer,1,RPS4Y1
+Kidney Cancer,1,ANGPTL4
+Thyroid Cancer,1,RPS4Y1
