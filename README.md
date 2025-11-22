@@ -38,8 +38,6 @@ However, to **reproduce the results of this study**, please proceed as follows:
 
 2. Use the generated `.txt` file(s) as input for **Script 2**.
 
-Please refer to the attached `.xlsx` files for complete details regarding datasets, parameters, and expected outputs.
-
 
 ## License
 
